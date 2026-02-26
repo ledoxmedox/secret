@@ -1,5 +1,6 @@
 @echo off
 
+::news
 echo.
 title [1/10]
 echo [1/10]
